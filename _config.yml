@@ -6,7 +6,7 @@
 name: Jake Dumbauld
 
 # Short bio or description (displayed in the header)
-description: Data Scientist || Harnessing my endless curiosity to derive data-driven insights about our natural and constructed world.
+description: Harnessing my endless curiosity to derive data-driven insights about our natural and constructed world.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
@@ -21,9 +21,9 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: barryclark/jekyll-now
+  github: https://github.com/jakedumbauld
   instagram:
-  linkedin:
+  linkedin: https://www.linkedin.com/in/jake-dumbauld/
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: jekyllrb
@@ -41,7 +41,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: https://github.com/jakedumbauld
+url:
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
